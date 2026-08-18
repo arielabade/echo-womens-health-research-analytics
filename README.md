@@ -34,6 +34,10 @@ ECHO-UFS - Women's Health in Primary Care was connected to the broader Project E
 
 The reach graphic is included as institutional/program context for the broader Project ECHO network. It is not used as a measure of my individual impact or of the local ECHO-UFS project.
 
+![Project ECHO active programs map](assets/images/project-echo-active-programs-map.png)
+
+This active-programs map provides additional context on the international scale of the Project ECHO model. It is included to help readers understand the broader ecosystem in which local ECHO initiatives operate.
+
 ## Research Overview
 
 The reviewed files support describing the ECHO-UFS work as a quantitative, descriptive, cross-sectional evaluation of a remote women's health training initiative. The analysis focused on participant perceptions of instructional procedures and knowledge management, including course clarity, methodology, interaction, materials, scientific evidence, and perceived usefulness of knowledge in professional routines.
