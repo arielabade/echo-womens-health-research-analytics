@@ -1,5 +1,9 @@
 # Private and original source materials
 source-documents/
+ECHO.ipynb
+*.xlsx
+*.docx
+*.pdf
 
 # Local exports and temporary audit files
 *.tmp
@@ -11,4 +15,3 @@ Thumbs.db
 # Python cache
 __pycache__/
 *.py[cod]
-

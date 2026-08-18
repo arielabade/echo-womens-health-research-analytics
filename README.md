@@ -1,119 +1,141 @@
-# 🩺 ECHO - Women's Health Research & Data Project
+# 🧠 ECHO-UFS - Research & Scientific Computing
 
-> Research methodology, data analysis, statistical reporting, and communication applied to a remote women's health training initiative in primary care.
+<p align="center">
+  <img src="assets/images/ufs-project-echo-logo.png" alt="Federal University of Sergipe and Project ECHO logo" height="72">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/images/unm-health-sciences-project-echo-logo.png" alt="UNM Health Sciences and Project ECHO logo" height="56">
+</p>
 
-**Focus:** Research Methods | Data Collection | Quantitative Analysis | Data Visualization | Reporting
+> Research methodology, data analysis, and scientific communication within a multidisciplinary women's health initiative, complemented by an independent scientific-computing notebook for portfolio depth.
 
-## Overview
+**Research Methodology · Data Analysis · Scientific Communication · Python · Statistical Computing**
 
-ECHO was a women's health education and research initiative based on the Extension for Community Healthcare Outcomes model, which uses remote mentoring and collaborative learning to support health professionals. The materials in this repository relate to the evaluation of a remote ECHO-based course focused on women's health.
+## Portfolio Scope
 
-The available project files document a quantitative, descriptive, cross-sectional evaluation using structured Likert-scale instruments. The analysis examined participant perceptions of instructional procedures and knowledge management, with emphasis on course clarity, methodology, content organization, interaction, recommended materials, and the perceived usefulness of knowledge in professional routines.
+This repository presents two related but distinct layers:
 
-This public portfolio version is not an archive of the original research files. It is a curated case study that summarizes non-sensitive aspects of the work, highlights analytical methods, and presents English-language visual evidence created from aggregate results.
+| Layer | What It Represents | What It Does Not Claim |
+| --- | --- | --- |
+| **ECHO-UFS research experience** | Documented participation in a women's health research and training-evaluation context involving methodology, data collection, analysis, and reporting. | It does not claim that neural networks or deep learning were official ECHO-UFS research methods. |
+| **Independent technical extension** | A sanitized Jupyter Notebook demonstrating Python-based scientific computing, aggregate data handling, statistical analysis, visualization, and regression-style experimentation. | It is not presented as the official methodology of the ECHO-UFS research project. |
 
-## Project Snapshot
+## Program Context
 
-| Area | Details |
-| --- | --- |
-| Project context | Remote ECHO-based training in women's health |
-| Research design | Quantitative, descriptive, cross-sectional evaluation |
-| Instruments | Instructional reaction scale and knowledge-management scale |
-| Analysis methods | Descriptive statistics, normality testing, chi-square tests, Kruskal-Wallis tests, Spearman correlation, boxplots, heatmaps |
-| Public data status | Original datasets and spreadsheets are excluded for privacy and research-data protection |
-| Public outputs | Aggregate charts, methodology summary, portfolio documentation |
+ECHO-UFS - Women's Health in Primary Care was connected to the broader Project ECHO model, which uses remote mentoring and collaborative learning to support professional development in health contexts. The reviewed project materials relate to a remote women's health course evaluation and its research documentation.
 
-## My Role
+![Project ECHO global reach context](assets/images/project-echo-global-reach.png)
 
-Based on the reviewed files, my contribution is presented around the analytical and documentation work supported by the available evidence:
+The reach graphic is included as institutional/program context for the broader Project ECHO network. It is not used as a measure of my individual impact or of the local ECHO-UFS project.
 
-- Organized and reviewed quantitative evaluation outputs from course assessment instruments.
-- Contributed to descriptive and inferential analysis documentation for Likert-scale survey results.
-- Worked with aggregate indicators such as mode, mean, standard deviation, normality tests, chi-square results, Kruskal-Wallis comparisons, and Spearman correlations.
-- Supported interpretation of participant feedback related to instructional procedures, course methodology, interaction, content clarity, and knowledge management.
-- Contributed to research reporting by turning statistical findings into written results, discussion points, and visual summaries.
-- Prepared portfolio-safe English visualizations from aggregate values while excluding restricted source files.
+## Research Overview
+
+The reviewed files support describing the ECHO-UFS work as a quantitative, descriptive, cross-sectional evaluation of a remote women's health training initiative. The analysis focused on participant perceptions of instructional procedures and knowledge management, including course clarity, methodology, interaction, materials, scientific evidence, and perceived usefulness of knowledge in professional routines.
+
+The public repository intentionally avoids publishing original research datasets, raw spreadsheets, administrative declarations, unpublished drafts, or participant-level information. It presents only aggregate, non-identifiable outputs and portfolio-safe documentation.
+
+## My Documented Role
+
+**Role:** Undergraduate Research Scholar / Scientific Initiation Researcher  
+**Project:** ECHO-UFS - Women's Health in Primary Care  
+**Institutional context:** Federal University of Sergipe and related project partners
+
+My documented work is represented conservatively:
+
+- Supported the design and preparation of structured research protocols used in the data-collection workflow.
+- Collaborated on refinement of research instruments and evaluation materials.
+- Supported the application and organization of research data-collection instruments.
+- Participated in quantitative data analysis and interpretation of research findings.
+- Contributed to written research results, partial documentation, and final reporting materials.
+- Supported graphical and audiovisual communication materials connected to the research and training context.
+- Participated in research sessions, timelines, training activities, courses, and workshops.
 
 ## Research Workflow
 
 ```mermaid
 flowchart LR
-    A[Course Evaluation Context] --> B[Research Instruments]
-    B --> C[Digital Data Collection]
-    C --> D[Spreadsheet Organization]
-    D --> E[Descriptive Statistics]
-    E --> F[Inferential Tests]
-    F --> G[Correlation Analysis]
-    G --> H[Visual Reporting]
-    H --> I[Research Writeup]
+    A[Women's Health Training Context] --> B[Research Questions]
+    B --> C[Research Protocols]
+    C --> D[Evaluation Instruments]
+    D --> E[Digital Data Collection]
+    E --> F[Data Preparation]
+    F --> G[Statistical Analysis]
+    G --> H[Visual Evidence]
+    H --> I[Research Reporting]
 ```
 
-## What I Worked On
+## Data And Methodology
 
-### Research Methodology
+The research materials include two evaluation dimensions:
 
-The reviewed article draft describes a quantitative, descriptive, cross-sectional study using structured instruments applied after the course. The methodology included voluntary and anonymous participant responses, Likert-scale evaluation items, and non-parametric analysis due to the distribution characteristics reported in the materials.
+- **Instructional procedure reaction scale:** 15 Likert-style items scored from 0 to 10.
+- **Knowledge-management scale:** 6 Likert-style items scored from 1 to 5.
 
-### Data Analysis
+The documented analytical workflow included:
 
-The source materials include aggregate tables and charts for two evaluation dimensions:
+- data organization in spreadsheets;
+- descriptive statistics such as mode, mean, median, standard deviation, and quartiles;
+- normality review using Kolmogorov-Smirnov tests;
+- chi-square tests for response distribution patterns;
+- Kruskal-Wallis tests for group-comparison checks;
+- Spearman correlation matrices;
+- boxplots, heatmaps, and regression-style trend charts;
+- written interpretation of results for research reporting.
 
-- Instructional procedure reaction scale, with 15 items scored from 0 to 10.
-- Knowledge-management scale, with 6 items scored from 1 to 5.
-
-The analysis summarized central tendency and dispersion, checked normality, compared response distributions, explored group differences, and examined monotonic associations through Spearman correlation.
-
-### Reporting And Interpretation
-
-The documentation interprets high average scores for instructional clarity, language, course structure, recommended materials, and scientific evidence. It also notes areas with greater response variability, including participant interaction channels and end-of-session activities.
-
-For knowledge management, the materials report generally positive perceptions regarding the usefulness of knowledge for performance, productivity, team effectiveness, and work quality.
-
-### Data Communication
-
-The original folder contained Portuguese-language charts and draft documents. For this GitHub portfolio, the public-facing outputs were rebuilt in English using aggregate, non-identifiable values. This makes the repository readable for international recruiters while keeping the source research materials private.
-
-## Selected Outputs
+## Scientific And Analytical Outputs
 
 ### Instructional Procedure Evaluation
 
 ![Instructional procedure mean scores](assets/figures/instructional-procedure-scores.png)
 
-The instructional procedure scale showed consistently high aggregate scores across the 15 reviewed items. Reported means ranged from 8.66 to 9.45 on a 0-10 scale, with mode equal to 10 across all items in the reviewed table.
+The instructional procedure scale showed consistently high aggregate scores across the 15 reviewed items. Reported means ranged from **8.66 to 9.45** on a 0-10 scale, with mode equal to 10 across all items in the reviewed table.
 
 ### Knowledge Management Evaluation
 
 ![Knowledge management mean scores](assets/figures/knowledge-management-scores.png)
 
-The knowledge-management scale showed positive aggregate perceptions across the reviewed items. Means ranged from 3.95 to 4.68 on a 1-5 scale, with the strongest averages related to work quality, usefulness, and performance.
+The knowledge-management scale showed positive aggregate perceptions across the reviewed items. Means ranged from **3.95 to 4.68** on a 1-5 scale, with the strongest averages related to work quality, usefulness, and performance.
 
-### Analytical Evidence Summary
+### Aggregate Evidence Summary
 
 ![Aggregated analysis summary](assets/figures/aggregated-analysis-summary.png)
 
-This summary consolidates the key portfolio-safe findings used to explain the analytical workflow. It intentionally avoids individual-level records and restricted datasets.
+This summary consolidates the portfolio-safe findings used to explain the analytical workflow. It intentionally avoids individual-level records and restricted datasets.
 
-## Tools And Skills
+## Independent Technical Extension
 
-**Research**
+To complement the applied research experience, this repository includes a sanitized notebook:
 
-`Research Methodology` `Survey Instruments` `Quantitative Research` `Ethical Data Handling`
+[notebooks/scientific-computing-extension.ipynb](notebooks/scientific-computing-extension.ipynb)
 
-**Data**
+The notebook demonstrates how the analytical work can be represented through a clean, reproducible scientific-computing workflow using aggregate values only. It was built from the audited technical patterns found in the original notebook while removing raw outputs, local file paths, participant-level previews, and Portuguese-facing text.
 
-`Data Preparation` `Descriptive Statistics` `Non-parametric Analysis` `Spearman Correlation` `Data Visualization`
+**Technical scope note:** The notebook is an independent technical extension of this portfolio. It should not be interpreted as the official methodology of the ECHO-UFS Women's Health in Primary Care research project.
 
-**Reporting**
+## Notebook Evidence
 
-`Research Reporting` `Technical Writing` `Results Interpretation` `Data Storytelling`
+The reviewed original notebook supported the following technical claims:
 
-**Tools evidenced in the source materials**
+| Evidence Found | Public Portfolio Interpretation |
+| --- | --- |
+| R and Python code cells | Cross-tool analytical workflow experience |
+| `pandas`, `NumPy`, `SciPy` | Python-based scientific computing and statistical analysis |
+| `matplotlib`, `seaborn`, `ggplot2` | Data visualization and exploratory analysis |
+| `scikit-learn` linear models | Regression-style modeling experimentation |
+| Chi-square, Kruskal-Wallis, Kolmogorov-Smirnov, Spearman correlation | Statistical testing and survey-analysis workflow |
+| Data-cleaning routines and digit extraction | Data preprocessing and transformation |
+| Modular Python pipeline pattern | Structured analytical code organization |
 
-`IBM SPSS v26` `Spreadsheets` `Statistical Charts`
+The audit did **not** find implemented neural-network architectures such as LSTM, GRU, BI-LSTM, or Simple RNN in the notebook. For that reason, this repository does not present the project as a deep-learning portfolio project.
 
-**Portfolio reproducibility**
+## Skills Demonstrated
 
-`Python` `Matplotlib`
+### Research Experience
+
+`Research Methodology` `Quantitative Research` `Data Collection` `Research Protocols` `Data Analysis` `Program Evaluation` `Scientific Communication` `Research Reporting` `Multidisciplinary Collaboration`
+
+### Technical Extension
+
+`Python` `Pandas` `NumPy` `SciPy` `Scikit-learn` `Matplotlib` `Seaborn` `R` `ggplot2` `Data Preprocessing` `Statistical Testing` `Correlation Analysis` `Regression Experimentation` `Scientific Computing`
 
 ## Repository Structure
 
@@ -123,29 +145,36 @@ This summary consolidates the key portfolio-safe findings used to explain the an
 ├── analysis/
 │   └── generate_portfolio_figures.py
 ├── assets/
-│   └── figures/
-│       ├── aggregated-analysis-summary.png
-│       ├── instructional-procedure-scores.png
-│       └── knowledge-management-scores.png
+│   ├── figures/
+│   │   ├── aggregated-analysis-summary.png
+│   │   ├── instructional-procedure-scores.png
+│   │   └── knowledge-management-scores.png
+│   └── images/
+│       ├── project-echo-global-reach.png
+│       ├── ufs-project-echo-logo.png
+│       └── unm-health-sciences-project-echo-logo.png
 ├── data/
 │   └── README.md
 ├── docs/
 │   └── audit-summary.md
+├── notebooks/
+│   └── scientific-computing-extension.ipynb
 └── source-documents/
     └── original-materials/   # local only, excluded from Git
 ```
 
 ## What This Project Demonstrates
 
-- Ability to work within structured health-research and training-evaluation workflows.
-- Experience supporting quantitative analysis of survey-based research instruments.
-- Understanding of descriptive statistics, non-parametric testing, and correlation analysis.
-- Ability to translate analytical results into professional reporting and visual communication.
-- Careful handling of sensitive research materials and participant-related data.
-- Ability to convert raw project folders into a curated, recruiter-friendly technical case study.
+- Ability to work inside a real multidisciplinary health-research environment.
+- Experience supporting structured research protocols, data collection, and research instruments.
+- Ability to organize, analyze, and interpret survey-based quantitative data.
+- Familiarity with descriptive statistics, non-parametric tests, and correlation analysis.
+- Ability to turn statistical findings into reports, charts, and recruiter-readable technical documentation.
+- Responsible handling of sensitive health/research materials.
+- Technical curiosity through a separate, sanitized scientific-computing notebook.
 
-## Privacy Note
+## Privacy And Research Ethics
 
-This portfolio presents only non-sensitive aspects of the project. Personal identifiers, confidential documents, participant information, unpublished source documents, and restricted research data have intentionally been excluded or summarized at an aggregate level.
+This portfolio presents only non-sensitive aspects of the project. Personal identifiers, confidential documents, participant information, unpublished source documents, raw spreadsheets, administrative declarations, and restricted research data have intentionally been excluded or summarized at an aggregate level.
 
 See [data/README.md](data/README.md) for the data-sharing note and [docs/audit-summary.md](docs/audit-summary.md) for the portfolio audit summary.
