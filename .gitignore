@@ -1,0 +1,14 @@
+# Private and original source materials
+source-documents/
+
+# Local exports and temporary audit files
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
