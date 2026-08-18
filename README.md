@@ -6,6 +6,13 @@
   <img src="assets/images/unm-health-sciences-project-echo-logo.png" alt="UNM Health Sciences and Project ECHO logo" height="56">
 </p>
 
+<p align="center">
+  <a href="https://projectecho.unm.edu/">Project ECHO</a> ·
+  <a href="https://echoufs.com/">ECHO-UFS</a> ·
+  <a href="https://echoufs.blogspot.com/">ECHO-UFS Blog</a> ·
+  <a href="https://iecho.org/public/program/PRGM1707459036980LI2A5IWZ6G">iECHO Program Page</a>
+</p>
+
 > Research methodology, data analysis, and scientific communication within a multidisciplinary women's health initiative, complemented by an independent scientific-computing notebook for portfolio depth.
 
 **Research Methodology · Data Analysis · Scientific Communication · Python · Statistical Computing**
