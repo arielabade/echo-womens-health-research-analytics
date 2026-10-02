@@ -1,4 +1,16 @@
-# 🧠 ECHO-UFS - Research & Scientific Computing
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/header-dark.svg">
+    <img alt="ECHO-UFS Research Analytics — survey-based evaluation of a remote women's health training initiative" src="assets/brand/header-light.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="Field: research analytics" src="https://img.shields.io/badge/field-research_analytics-5B6CFF?style=flat-square&labelColor=050505">
+  <img alt="Python and statistical computing" src="https://img.shields.io/badge/python-statistical_computing-7E8791?style=flat-square&labelColor=050505">
+  <img alt="Design: cross-sectional" src="https://img.shields.io/badge/design-cross_sectional-7E8791?style=flat-square&labelColor=050505">
+  <img alt="Data: aggregate only" src="https://img.shields.io/badge/data-aggregate_only-C8B680?style=flat-square&labelColor=050505">
+</p>
 
 <p align="center">
   <img src="assets/images/ufs-project-echo-logo.png" alt="Federal University of Sergipe and Project ECHO logo" height="72">
@@ -7,15 +19,17 @@
 </p>
 
 <p align="center">
-  <a href="https://projectecho.unm.edu/">Project ECHO</a> ·
-  <a href="https://echoufs.com/">ECHO-UFS</a> ·
-  <a href="https://echoufs.blogspot.com/">ECHO-UFS Blog</a> ·
+  <a href="https://projectecho.unm.edu/">Project ECHO</a> &nbsp;·&nbsp;
+  <a href="https://echoufs.com/">ECHO-UFS</a> &nbsp;·&nbsp;
+  <a href="https://echoufs.blogspot.com/">ECHO-UFS Blog</a> &nbsp;·&nbsp;
   <a href="https://iecho.org/public/program/PRGM1707459036980LI2A5IWZ6G">iECHO Program Page</a>
 </p>
 
-> Research methodology, data analysis, and scientific communication within a multidisciplinary women's health initiative, complemented by an independent scientific-computing notebook for portfolio depth.
+**Research methodology, data analysis and scientific communication** within a multidisciplinary
+women's health initiative, complemented by an independent scientific-computing notebook for
+portfolio depth.
 
-**Research Methodology · Data Analysis · Scientific Communication · Python · Statistical Computing**
+`Research Methodology` · `Data Analysis` · `Scientific Communication` · `Python` · `Statistical Computing`
 
 ## Portfolio Scope
 
@@ -189,3 +203,11 @@ The audit did **not** find implemented neural-network architectures such as LSTM
 This portfolio presents only non-sensitive aspects of the project. Personal identifiers, confidential documents, participant information, unpublished source documents, raw spreadsheets, administrative declarations, and restricted research data have intentionally been excluded or summarized at an aggregate level.
 
 See [data/README.md](data/README.md) for the data-sharing note and [docs/audit-summary.md](docs/audit-summary.md) for the portfolio audit summary.
+
+---
+
+<p align="center">
+  <a href="https://github.com/arielabade">Portfolio overview</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/arielabade/carbon">Deep-learning research</a>
+</p>
