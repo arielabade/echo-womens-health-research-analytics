@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/header-dark.svg">
-    <img alt="ECHO Research Analytics: survey-based evaluation of a remote women's health training programme" src="assets/brand/header-light.svg" width="100%">
-  </picture>
-</p>
+<p align="center"><img alt="ECHO Research Analytics: survey-based evaluation of a remote women's health training programme" src="assets/brand/header.svg" width="100%"></p>
 
 <p align="center">
   <img alt="Method stage: build" src="https://img.shields.io/badge/stage-build-5B6CFF?style=flat-square&labelColor=050505">
@@ -17,19 +12,9 @@
 data collection, non-parametric statistics and scientific reporting, inside a multidisciplinary
 health-research team.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/kpis-dark.svg">
-    <img alt="Instructional item means 8.66–9.45 of 10; knowledge-management means 3.95–4.68 of 5; no participant records published" src="assets/brand/kpis-light.svg" width="100%">
-  </picture>
-</p>
+<p align="center"><img alt="Instructional item means 8.66–9.45 of 10; knowledge-management means 3.95–4.68 of 5; no participant records published" src="assets/brand/kpis.svg" width="100%"></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/arc-dark.svg">
-    <img alt="Context, problem, strategy and result of the case" src="assets/brand/arc-light.svg" width="100%">
-  </picture>
-</p>
+<p align="center"><img alt="Context, problem, strategy and result of the case" src="assets/brand/arc.svg" width="100%"></p>
 
 ---
 
@@ -156,12 +141,7 @@ notebooks/    sanitised scientific-computing extension
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/track-dark.svg">
-    <img alt="ABADE method: validate, scale, retain, build. This repository: build" src="assets/brand/track-light.svg" width="100%">
-  </picture>
-</p>
+<p align="center"><img alt="ABADE method: validate, scale, retain, build. This repository: build" src="assets/brand/track.svg" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/arielabade/carbon">← Deep-learning research</a> &nbsp;·&nbsp;
