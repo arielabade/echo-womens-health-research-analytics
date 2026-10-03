@@ -1,213 +1,169 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/brand/header-dark.svg">
-    <img alt="ECHO-UFS Research Analytics — survey-based evaluation of a remote women's health training initiative" src="assets/brand/header-light.svg" width="100%">
+    <img alt="ECHO Research Analytics: survey-based evaluation of a remote women's health training programme" src="assets/brand/header-light.svg" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <img alt="Field: research analytics" src="https://img.shields.io/badge/field-research_analytics-5B6CFF?style=flat-square&labelColor=050505">
-  <img alt="Python and statistical computing" src="https://img.shields.io/badge/python-statistical_computing-7E8791?style=flat-square&labelColor=050505">
+  <img alt="Method stage: build" src="https://img.shields.io/badge/stage-build-5B6CFF?style=flat-square&labelColor=050505">
+  <img alt="Python and R statistical computing" src="https://img.shields.io/badge/Python_·_R-statistics-7E8791?style=flat-square&labelColor=050505">
   <img alt="Design: cross-sectional" src="https://img.shields.io/badge/design-cross_sectional-7E8791?style=flat-square&labelColor=050505">
   <img alt="Data: aggregate only" src="https://img.shields.io/badge/data-aggregate_only-C8B680?style=flat-square&labelColor=050505">
 </p>
 
+**Participants rated a remote women's health training programme consistently high.** Every one of the
+15 instructional items had a mode of 10 out of 10. The work behind that result covers protocol design,
+data collection, non-parametric statistics and scientific reporting, inside a multidisciplinary
+health-research team.
+
 <p align="center">
-  <img src="assets/images/ufs-project-echo-logo.png" alt="Federal University of Sergipe and Project ECHO logo" height="72">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/kpis-dark.svg">
+    <img alt="Instructional item means 8.66–9.45 of 10; knowledge-management means 3.95–4.68 of 5; no participant records published" src="assets/brand/kpis-light.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/arc-dark.svg">
+    <img alt="Context, problem, strategy and result of the case" src="assets/brand/arc-light.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+## 01 — Context
+
+<p align="center">
+  <img src="assets/images/ufs-project-echo-logo.png" alt="Federal University of Sergipe and Project ECHO logo" height="64">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/images/unm-health-sciences-project-echo-logo.png" alt="UNM Health Sciences and Project ECHO logo" height="56">
+  <img src="assets/images/unm-health-sciences-project-echo-logo.png" alt="UNM Health Sciences and Project ECHO logo" height="52">
 </p>
 
-<p align="center">
-  <a href="https://projectecho.unm.edu/">Project ECHO</a> &nbsp;·&nbsp;
-  <a href="https://echoufs.com/">ECHO-UFS</a> &nbsp;·&nbsp;
-  <a href="https://echoufs.blogspot.com/">ECHO-UFS Blog</a> &nbsp;·&nbsp;
-  <a href="https://iecho.org/public/program/PRGM1707459036980LI2A5IWZ6G">iECHO Program Page</a>
-</p>
+**ECHO-UFS – Women's Health in Primary Care** is part of the [Project ECHO](https://projectecho.unm.edu/)
+model, which uses remote mentoring and collaborative learning to support health professionals
+([ECHO-UFS](https://echoufs.com/) · [blog](https://echoufs.blogspot.com/) ·
+[iECHO programme page](https://iecho.org/public/program/PRGM1707459036980LI2A5IWZ6G)).
 
-**Research methodology, data analysis and scientific communication** within a multidisciplinary
-women's health initiative, complemented by an independent scientific-computing notebook for
-portfolio depth.
+![Project ECHO global reach](assets/images/project-echo-global-reach.png)
 
-`Research Methodology` · `Data Analysis` · `Scientific Communication` · `Python` · `Statistical Computing`
+The reach graphic shows the broader Project ECHO network. It is context, not a measure of the local
+project or of my individual impact.
 
-## Portfolio Scope
+**My documented role.** Undergraduate Research Scholar (Scientific Initiation). I supported research
+protocols and instruments, data collection, quantitative analysis and interpretation, written results
+and reporting, and graphical communication materials.
 
-This repository presents two related but distinct layers:
+---
 
-| Layer | What It Represents | What It Does Not Claim |
-| --- | --- | --- |
-| **ECHO-UFS research experience** | Documented participation in a women's health research and training-evaluation context involving methodology, data collection, analysis, and reporting. | It does not claim that neural networks or deep learning were official ECHO-UFS research methods. |
-| **Independent technical extension** | A sanitized Jupyter Notebook demonstrating Python-based scientific computing, aggregate data handling, statistical analysis, visualization, and regression-style experimentation. | It is not presented as the official methodology of the ECHO-UFS research project. |
+## 02 — Problem
 
-## Program Context
+Did participants perceive the course's instruction (clarity, methodology, interaction, materials,
+scientific evidence) and its knowledge transfer as useful in their professional routine?
 
-ECHO-UFS - Women's Health in Primary Care was connected to the broader Project ECHO model, which uses remote mentoring and collaborative learning to support professional development in health contexts. The reviewed project materials relate to a remote women's health course evaluation and its research documentation.
+---
 
-![Project ECHO global reach context](assets/images/project-echo-global-reach.png)
+## 03 — Strategy
 
-The reach graphic is included as institutional/program context for the broader Project ECHO network. It is not used as a measure of my individual impact or of the local ECHO-UFS project.
-
-![Project ECHO active programs map](assets/images/project-echo-active-programs-map.png)
-
-This active-programs map provides additional context on the international scale of the Project ECHO model. It is included to help readers understand the broader ecosystem in which local ECHO initiatives operate.
-
-## Research Overview
-
-The reviewed files support describing the ECHO-UFS work as a quantitative, descriptive, cross-sectional evaluation of a remote women's health training initiative. The analysis focused on participant perceptions of instructional procedures and knowledge management, including course clarity, methodology, interaction, materials, scientific evidence, and perceived usefulness of knowledge in professional routines.
-
-The public repository intentionally avoids publishing original research datasets, raw spreadsheets, administrative declarations, unpublished drafts, or participant-level information. It presents only aggregate, non-identifiable outputs and portfolio-safe documentation.
-
-## My Documented Role
-
-**Role:** Undergraduate Research Scholar / Scientific Initiation Researcher  
-**Project:** ECHO-UFS - Women's Health in Primary Care  
-**Institutional context:** Federal University of Sergipe and related project partners
-
-My documented work is represented conservatively:
-
-- Supported the design and preparation of structured research protocols used in the data-collection workflow.
-- Collaborated on refinement of research instruments and evaluation materials.
-- Supported the application and organization of research data-collection instruments.
-- Participated in quantitative data analysis and interpretation of research findings.
-- Contributed to written research results, partial documentation, and final reporting materials.
-- Supported graphical and audiovisual communication materials connected to the research and training context.
-- Participated in research sessions, timelines, training activities, courses, and workshops.
-
-## Research Workflow
+A quantitative, descriptive, **cross-sectional** evaluation.
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#F6F5F0','primaryTextColor':'#050505','primaryBorderColor':'#7E8791','lineColor':'#5B6CFF','fontFamily':'Lato, Helvetica, Arial, sans-serif'}}}%%
 flowchart LR
-    A[Women's Health Training Context] --> B[Research Questions]
-    B --> C[Research Protocols]
-    C --> D[Evaluation Instruments]
-    D --> E[Digital Data Collection]
-    E --> F[Data Preparation]
-    F --> G[Statistical Analysis]
-    G --> H[Visual Evidence]
-    H --> I[Research Reporting]
+    A[Training context] --> B[Research questions]
+    B --> C[Protocols and instruments]
+    C --> D[Digital data collection]
+    D --> E[Preparation]
+    E --> F[Statistical analysis]
+    F --> G[Reporting]
+    style G fill:#5B6CFF,stroke:#5B6CFF,color:#FFFFFF
 ```
 
-## Data And Methodology
+| Instrument | Items | Scale |
+| --- | --- | --- |
+| Instructional procedure reaction | 15 Likert-style items | 0–10 |
+| Knowledge management | 6 Likert-style items | 1–5 |
 
-The research materials include two evaluation dimensions:
-
-- **Instructional procedure reaction scale:** 15 Likert-style items scored from 0 to 10.
-- **Knowledge-management scale:** 6 Likert-style items scored from 1 to 5.
-
-The documented analytical workflow included:
-
-- data organization in spreadsheets;
-- descriptive statistics such as mode, mean, median, standard deviation, and quartiles;
-- normality review using Kolmogorov-Smirnov tests;
-- chi-square tests for response distribution patterns;
-- Kruskal-Wallis tests for group-comparison checks;
-- Spearman correlation matrices;
-- boxplots, heatmaps, and regression-style trend charts;
-- written interpretation of results for research reporting.
-
-## Scientific And Analytical Outputs
-
-### Instructional Procedure Evaluation
-
-![Instructional procedure mean scores](assets/figures/instructional-procedure-scores.png)
-
-The instructional procedure scale showed consistently high aggregate scores across the 15 reviewed items. Reported means ranged from **8.66 to 9.45** on a 0-10 scale, with mode equal to 10 across all items in the reviewed table.
-
-### Knowledge Management Evaluation
-
-![Knowledge management mean scores](assets/figures/knowledge-management-scores.png)
-
-The knowledge-management scale showed positive aggregate perceptions across the reviewed items. Means ranged from **3.95 to 4.68** on a 1-5 scale, with the strongest averages related to work quality, usefulness, and performance.
-
-### Aggregate Evidence Summary
-
-![Aggregated analysis summary](assets/figures/aggregated-analysis-summary.png)
-
-This summary consolidates the portfolio-safe findings used to explain the analytical workflow. It intentionally avoids individual-level records and restricted datasets.
-
-## Independent Technical Extension
-
-To complement the applied research experience, this repository includes a sanitized notebook:
-
-[notebooks/scientific-computing-extension.ipynb](notebooks/scientific-computing-extension.ipynb)
-
-The notebook demonstrates how the analytical work can be represented through a clean, reproducible scientific-computing workflow using aggregate values only. It was built from the audited technical patterns found in the original notebook while removing raw outputs, local file paths, participant-level previews, and Portuguese-facing text.
-
-**Technical scope note:** The notebook is an independent technical extension of this portfolio. It should not be interpreted as the official methodology of the ECHO-UFS Women's Health in Primary Care research project.
-
-## Notebook Evidence
-
-The reviewed original notebook supported the following technical claims:
-
-| Evidence Found | Public Portfolio Interpretation |
+| Method | Purpose |
 | --- | --- |
-| R and Python code cells | Cross-tool analytical workflow experience |
-| `pandas`, `NumPy`, `SciPy` | Python-based scientific computing and statistical analysis |
-| `matplotlib`, `seaborn`, `ggplot2` | Data visualization and exploratory analysis |
-| `scikit-learn` linear models | Regression-style modeling experimentation |
-| Chi-square, Kruskal-Wallis, Kolmogorov-Smirnov, Spearman correlation | Statistical testing and survey-analysis workflow |
-| Data-cleaning routines and digit extraction | Data preprocessing and transformation |
-| Modular Python pipeline pattern | Structured analytical code organization |
+| Mode, mean, median, SD, quartiles | Describe each item |
+| Kolmogorov-Smirnov | Check normality, which decides between parametric and non-parametric tests |
+| Chi-square | Response distribution patterns |
+| Kruskal-Wallis | Group comparisons without assuming normality |
+| Spearman correlation | Association between ordinal items |
 
-The audit did **not** find implemented neural-network architectures such as LSTM, GRU, BI-LSTM, or Simple RNN in the notebook. For that reason, this repository does not present the project as a deep-learning portfolio project.
+---
 
-## Skills Demonstrated
+## 04 — Result
 
-### Research Experience
+<p align="center"><img src="assets/figures/instructional-procedure-scores.png" width="85%" alt="Instructional procedure mean scores"></p>
 
-`Research Methodology` `Quantitative Research` `Data Collection` `Research Protocols` `Data Analysis` `Program Evaluation` `Scientific Communication` `Research Reporting` `Multidisciplinary Collaboration`
+**Instructional procedure:** item means from **8.66 to 9.45** on a 0–10 scale, with a mode of 10 on all
+15 items.
 
-### Technical Extension
+<p align="center"><img src="assets/figures/knowledge-management-scores.png" width="85%" alt="Knowledge management mean scores"></p>
 
-`Python` `Pandas` `NumPy` `SciPy` `Scikit-learn` `Matplotlib` `Seaborn` `R` `ggplot2` `Data Preprocessing` `Statistical Testing` `Correlation Analysis` `Regression Experimentation` `Scientific Computing`
+**Knowledge management:** means from **3.95 to 4.68** on a 1–5 scale. The strongest averages were on
+work quality, usefulness and performance.
 
-## Repository Structure
+<p align="center"><img src="assets/figures/aggregated-analysis-summary.png" width="85%" alt="Aggregated analysis summary"></p>
 
-```text
-.
-├── README.md
-├── analysis/
-│   └── generate_portfolio_figures.py
-├── assets/
-│   ├── figures/
-│   │   ├── aggregated-analysis-summary.png
-│   │   ├── instructional-procedure-scores.png
-│   │   └── knowledge-management-scores.png
-│   └── images/
-│       ├── project-echo-global-reach.png
-│       ├── ufs-project-echo-logo.png
-│       └── unm-health-sciences-project-echo-logo.png
-├── data/
-│   └── README.md
-├── docs/
-│   └── audit-summary.md
-├── notebooks/
-│   └── scientific-computing-extension.ipynb
-└── source-documents/
-    └── original-materials/   # local only, excluded from Git
+> **Outcome.** Evidence that participants valued both the instruction and its usefulness at work,
+> reported in aggregate and without any individual-level record.
+
+**Independent technical extension.** [`notebooks/scientific-computing-extension.ipynb`](notebooks/scientific-computing-extension.ipynb)
+re-expresses the analytical patterns in a clean Python workflow using aggregate values only: pandas,
+NumPy, SciPy, visualisation and regression-style experimentation. It is **not** the official
+methodology of the ECHO-UFS project. The audit found no neural-network architectures in the original
+notebook, so none are claimed.
+
+---
+
+## 05 — Limits and next move
+
+- **Cross-sectional and self-reported.** Perceived usefulness is not measured change in clinical
+  practice.
+- **Ceiling effects.** With modes at 10, the 0–10 scale has little room to separate strong items from
+  very strong ones.
+- **Aggregate outputs only.** Original datasets, raw spreadsheets, declarations and participant-level
+  information are excluded by design ([data note](data/README.md) · [audit summary](docs/audit-summary.md)).
+- **Next move:** a pre/post design with a practice-level outcome, so perceived usefulness can be tested
+  against behaviour.
+
+---
+
+## Run it
+
+```bash
+git clone https://github.com/arielabade/echo-womens-health-research-analytics
+cd echo-womens-health-research-analytics
+pip install pandas numpy scipy matplotlib seaborn scikit-learn jupyter
+
+python analysis/generate_portfolio_figures.py           # regenerate the figures from aggregate values
+jupyter notebook notebooks/scientific-computing-extension.ipynb
 ```
 
-## What This Project Demonstrates
+## Repository map
 
-- Ability to work inside a real multidisciplinary health-research environment.
-- Experience supporting structured research protocols, data collection, and research instruments.
-- Ability to organize, analyze, and interpret survey-based quantitative data.
-- Familiarity with descriptive statistics, non-parametric tests, and correlation analysis.
-- Ability to turn statistical findings into reports, charts, and recruiter-readable technical documentation.
-- Responsible handling of sensitive health/research materials.
-- Technical curiosity through a separate, sanitized scientific-computing notebook.
-
-## Privacy And Research Ethics
-
-This portfolio presents only non-sensitive aspects of the project. Personal identifiers, confidential documents, participant information, unpublished source documents, raw spreadsheets, administrative declarations, and restricted research data have intentionally been excluded or summarized at an aggregate level.
-
-See [data/README.md](data/README.md) for the data-sharing note and [docs/audit-summary.md](docs/audit-summary.md) for the portfolio audit summary.
+```
+analysis/     figure generation and brand theme
+assets/       figures, programme images and logos
+data/         data-sharing note (no raw data)
+docs/         portfolio audit summary
+notebooks/    sanitised scientific-computing extension
+```
 
 ---
 
 <p align="center">
-  <a href="https://github.com/arielabade">Portfolio overview</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/arielabade/carbon">Deep-learning research</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brand/track-dark.svg">
+    <img alt="ABADE method: validate, scale, retain, build. This repository: build" src="assets/brand/track-light.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arielabade/carbon">← Deep-learning research</a> &nbsp;·&nbsp;
+  <a href="https://github.com/arielabade">Portfolio</a>
 </p>
